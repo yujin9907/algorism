@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abcb7c56-fee9-497d-9a79-b926ef6d73cd" name="Changes" comment="0813-2 알고리즘">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/Num1463.java" afterDir="false" />
+    <list default="true" id="abcb7c56-fee9-497d-9a79-b926ef6d73cd" name="Changes" comment="0813-3 알고리즘">
+      <change afterPath="$PROJECT_DIR$/src/listjava/N01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/listjava/N02Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/listjava/N03Compare.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/test2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +41,55 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Num1463">
-    <configuration name="Num10818" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.Num10818" />
+  <component name="RunManager" selected="Application.N03Compare (1)">
+    <configuration name="N01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="listjava.N01" />
       <module name="al2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="listjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="N02Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="listjava.N02Queue" />
+      <module name="al2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="listjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="N03Compare (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="listjava.N03Compare" />
+      <module name="al2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="listjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="N03Compare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="listjava.N03Compare" />
+      <module name="al2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="listjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -62,34 +107,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num2438" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.Num2438" />
-      <module name="al2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Num8393" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.Num8393" />
-      <module name="al2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.test2" />
-      <module name="al2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.N03Compare (1)" />
+        <item itemvalue="Application.N03Compare" />
+        <item itemvalue="Application.N02Queue" />
+        <item itemvalue="Application.N01" />
         <item itemvalue="Application.Num1463" />
-        <item itemvalue="Application.test2" />
-        <item itemvalue="Application.Num2438" />
-        <item itemvalue="Application.Num10818" />
-        <item itemvalue="Application.Num8393" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +127,7 @@
       <updated>1660176805820</updated>
       <workItem from="1660176806984" duration="9311000" />
       <workItem from="1660353793587" duration="2195000" />
-      <workItem from="1660358090003" duration="7145000" />
+      <workItem from="1660358090003" duration="9584000" />
     </task>
     <task id="LOCAL-00001" summary="0813">
       <created>1660354949178</created>
@@ -126,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660362213446</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="0813-3 알고리즘">
+      <created>1660370020727</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660370020727</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,7 +177,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="0813" />
     <MESSAGE value="0813-2 알고리즘" />
-    <option name="LAST_COMMIT_MESSAGE" value="0813-2 알고리즘" />
+    <MESSAGE value="0813-3 알고리즘" />
+    <option name="LAST_COMMIT_MESSAGE" value="0813-3 알고리즘" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -155,6 +187,16 @@
           <url>file://$PROJECT_DIR$/src/io/test2.java</url>
           <line>4</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dp/Num1463.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dp/Num1463.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
