@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abcb7c56-fee9-497d-9a79-b926ef6d73cd" name="Changes" comment="0813">
-      <change afterPath="$PROJECT_DIR$/src/ClassStudy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Num10818.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Num2438.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Num8393.java" afterDir="false" />
+    <list default="true" id="abcb7c56-fee9-497d-9a79-b926ef6d73cd" name="Changes" comment="0813-2 알고리즘">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Num2438.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Num2438.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +38,7 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Num10818">
+  <component name="RunManager" selected="Application.Num2438">
     <configuration name="ClassStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ClassStudy" />
       <module name="al2" />
@@ -56,15 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num10953" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num10953" />
-      <module name="al2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Num2472" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num2472" />
+    <configuration name="Num2438" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num2438" />
       <module name="al2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,13 +67,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test2" />
+      <module name="al2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num2438" />
+        <item itemvalue="Application.test2" />
         <item itemvalue="Application.Num10818" />
         <item itemvalue="Application.Num8393" />
         <item itemvalue="Application.ClassStudy" />
-        <item itemvalue="Application.Num2472" />
-        <item itemvalue="Application.Num10953" />
       </list>
     </recent_temporary>
   </component>
@@ -97,7 +94,7 @@
       <updated>1660176805820</updated>
       <workItem from="1660176806984" duration="9311000" />
       <workItem from="1660353793587" duration="2195000" />
-      <workItem from="1660358090003" duration="1264000" />
+      <workItem from="1660358090003" duration="3511000" />
     </task>
     <task id="LOCAL-00001" summary="0813">
       <created>1660354949178</created>
@@ -106,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660354949178</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="0813-2 알고리즘">
+      <created>1660359385444</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660359385444</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +129,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="0813" />
-    <option name="LAST_COMMIT_MESSAGE" value="0813" />
+    <MESSAGE value="0813-2 알고리즘" />
+    <option name="LAST_COMMIT_MESSAGE" value="0813-2 알고리즘" />
   </component>
 </project>
