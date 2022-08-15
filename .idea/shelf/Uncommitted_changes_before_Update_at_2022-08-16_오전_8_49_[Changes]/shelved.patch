@@ -1,0 +1,24 @@
+Index: src/Num11720.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class Num11720 {\r\n}\r\n
+===================================================================
+diff --git a/src/Num11720.java b/src/Num11720.java
+--- a/src/Num11720.java	
++++ b/src/Num11720.java	
+@@ -1,2 +1,15 @@
++import java.util.Scanner;
++
+ public class Num11720 {
++    public static void main(String[] args) {
++        Scanner s = new Scanner(System.in);
++        int n = s.nextInt();
++        String str = s.next();
++        int re = 0;
++        int re2 = 0;
++        for(int i=0;i<n;i++){
++            re += Integer.parseInt(String.valueOf(str.charAt(i)));
++        }
++        System.out.println(re);
++    }
+ }
